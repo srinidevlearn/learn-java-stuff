@@ -7,6 +7,9 @@ public class Main {
 		new FunctionLearn();
 		new BiFunctionLearn();
 new ConsumerLearn();
+new BiConsumerLearn();
+new SupplierLearn();
+
 
 	}
 
